@@ -1,0 +1,3 @@
+/home/saeed/Downloads/OpenCTM/build/CMakeFiles/rebuild_cache.dir
+/home/saeed/Downloads/OpenCTM/build/CMakeFiles/edit_cache.dir
+/home/saeed/Downloads/OpenCTM/build/CMakeFiles/mesh2ctm.dir

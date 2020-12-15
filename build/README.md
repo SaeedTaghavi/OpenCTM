@@ -12,3 +12,5 @@ ls
 
 now you can the executable `mesh2ctm` in the dirrectory. 
 `./mesh2ctm` will give you help to use it in the correct way, also it shows the options about compression methods.
+
+`main()` function in located in the `tools/ctmconv.cpp`
